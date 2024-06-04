@@ -16,7 +16,6 @@ warnings.filterwarnings('ignore')
 st.set_page_config(
     page_title="OM Graph Network Dashboard",
     page_icon="🏂",
-    layout="wide",
     initial_sidebar_state="expanded")
 alt.themes.enable("dark")
 
