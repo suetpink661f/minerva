@@ -1,0 +1,616 @@
+from,to,amount,Year,Region,Product
+SYNNEX AUSTRALIA_PTY LTD,Cdma Australia Pty Ltd,61.83221476510067,2024,AUSNZ,DT CPU
+ASBISC ENTERPRISES PLC,Alfatron Electronic Industries,55.910714285714285,2024,META,DT CPU
+ASBISC ENTERPRISES PLC,Data Business And Marketing Ma,91.0,2024,META,DT CPU
+ASBISC ENTERPRISES PLC,Klc Group Ltd,48.104166666666664,2024,META,DT CPU
+ASBISC ENTERPRISES PLC,Virtual Reality Solutions Co,36.07396593673966,2024,META,DT CPU
+Penta Teknoloji Urunleri Dagitim Ticaret,Casper Bilgisayar Sistemleri A,76.9392523364486,2024,META,DT CPU
+Penta Teknoloji Urunleri Dagitim Ticaret,Casper Paz Ic Ve Dis Tic A.s,107.5,2024,META,DT CPU
+Penta Teknoloji Urunleri Dagitim Ticaret,Incehesap Sanal Mag.tic.a.s,80.64516129032258,2024,META,DT CPU
+Penta Teknoloji Urunleri Dagitim Ticaret,Technopc Teknoloji Sanayi Ve T,42.112103980503655,2024,META,DT CPU
+Rectron PTY Ltd,Mustek Ltd,18.497109826589597,2024,META,DT CPU
+WORLD PEACE INDUSTRIAL CO.LTD,Wistron,4910.753105590062,2024,Taiwan,Server CPU
+SERTEK  INCORPORATED,Sintrones Technology Corp.,11.190582959641256,2024,Taiwan,DT CPU
+SYNNEX TECHNOLOGY INT'L CORP,Bcm Computer Co.,2.900516351118761,2024,Taiwan,DT CPU
+SYNNEX TECHNOLOGY INT'L CORP,"Elo Touch Solutions, Inc.",8.670046801872076,2024,Taiwan,DT CPU
+SYNNEX TECHNOLOGY INT'L CORP,"Firich Enterprises Co., Ltd",32.84813664596273,2024,Taiwan,DT CPU
+SYNNEX TECHNOLOGY INT'L CORP,"Lex Computech Co., Ltd.",76.06264185201998,2024,Taiwan,DT CPU
+SYNNEX TECHNOLOGY INT'L CORP,拍檔科技股份有限公司,43.76732574395846,2024,Taiwan,DT CPU
+WORLD PEACE INDUSTRIAL CO.LTD,Biostar Microtech Int'l Corp.,36.38478828917423,2024,Taiwan,DT CPU
+WORLD PEACE INDUSTRIAL CO.LTD,Britemed,153.1219512195122,2024,Taiwan,DT CPU
+WORLD PEACE INDUSTRIAL CO.LTD,Genuine C&c Inc.,28.265802092414997,2024,Taiwan,DT CPU
+WORLD PEACE INDUSTRIAL CO.LTD,Prox System Co. Ltd,25.0,2024,Taiwan,DT CPU
+WORLD PEACE INDUSTRIAL CO.LTD,Qnap,31.926605504587155,2024,Taiwan,DT CPU
+WORLD PEACE INDUSTRIAL CO.LTD,Winncom Technologies Corp.,25.010873504893077,2024,Taiwan,DT CPU
+WORLD PEACE INDUSTRIAL CO.LTD,浩鑫電腦股份有限公司,101.77255791349425,2024,Taiwan,DT CPU
+WPG Electronics (SA) Pte.Ltd,光宸科技 Quanmax,26.116665266459435,2024,Taiwan,DT CPU
+EASTRONICS,Universal Global Scientific Industr,5.0,2024,Taiwan,Emb POR
+SERTEK  INCORPORATED,A-trust Computer Corp.,13.001410437235544,2024,Taiwan,Emb POR
+SERTEK  INCORPORATED,Advantech,2.672221230588775,2024,Taiwan,Emb POR
+SERTEK  INCORPORATED,Ennoconn,9.361492720935,2024,Taiwan,Emb POR
+SERTEK  INCORPORATED,Jet Way,3.554724374387746,2024,Taiwan,Emb POR
+SERTEK  INCORPORATED,Lanner Electronics Inc.,6.554050892073706,2024,Taiwan,Emb POR
+SERTEK  INCORPORATED,U.s.i.,0.026343519494204427,2024,Taiwan,Emb POR
+SERTEK  INCORPORATED,其陽,0.006734006734006734,2024,Taiwan,Emb POR
+SERTEK  INCORPORATED,振樺電子股份有限公司,23.92828685258964,2024,Taiwan,Emb POR
+SYNNEX TECHNOLOGY INT'L CORP,Mitac Computing Technology Corporation,3.1447674855382766,2024,Taiwan,Emb POR
+SYNNEX TECHNOLOGY INT'L CORP,"Nexcom International Co., Ltd",4.39709635013919,2024,Taiwan,Emb POR
+SYNNEX TECHNOLOGY INT'L CORP,凌華科技,0.847497731103332,2024,Taiwan,Emb POR
+SYNNEX TECHNOLOGY INT'L CORP,拍檔科技股份有限公司,26.0,2024,Taiwan,Emb POR
+SYNNEX TECHNOLOGY INT'L CORP,普安科技股份有限公司,39.0,2024,Taiwan,Emb POR
+SYNNEX TECHNOLOGY INT'L CORP,欣揚電腦,9.0,2024,Taiwan,Emb POR
+SYNNEX TECHNOLOGY INT'L CORP,艾訊,0.44389686450967786,2024,Taiwan,Emb POR
+SYNNEX TECHNOLOGY INT'L CORP,飛捷科技,24.009603841536613,2024,Taiwan,Emb POR
+WORLD PEACE INDUSTRIAL CO.LTD,Aaeon Technology Inc,1.3335036309893078,2024,Taiwan,Emb POR
+WORLD PEACE INDUSTRIAL CO.LTD,Accton,9.650263370189341,2024,Taiwan,Emb POR
+WORLD PEACE INDUSTRIAL CO.LTD,Aopen,13.532991672005124,2024,Taiwan,Emb POR
+WORLD PEACE INDUSTRIAL CO.LTD,Avalue,7.689284043051006,2024,Taiwan,Emb POR
+WORLD PEACE INDUSTRIAL CO.LTD,Biostar Microtech Int'l Corp.,26.0,2024,Taiwan,Emb POR
+WORLD PEACE INDUSTRIAL CO.LTD,Caswell,0.18973594548551959,2024,Taiwan,Emb POR
+WORLD PEACE INDUSTRIAL CO.LTD,Clientron Corp.,25.121800998194754,2024,Taiwan,Emb POR
+WORLD PEACE INDUSTRIAL CO.LTD,Delta,3.637954179344908,2024,Taiwan,Emb POR
+WORLD PEACE INDUSTRIAL CO.LTD,Ibase,4.1953159041394334,2024,Taiwan,Emb POR
+WORLD PEACE INDUSTRIAL CO.LTD,Qnap,21.046515423535173,2024,Taiwan,Emb POR
+WORLD PEACE INDUSTRIAL CO.LTD,"Senao Networks, Inc.",0.601555929352397,2024,Taiwan,Emb POR
+WORLD PEACE INDUSTRIAL CO.LTD,Wnc,32.800345721694036,2024,Taiwan,Emb POR
+WORLD PEACE INDUSTRIAL CO.LTD,南京資訊股份有限公司,3.4339622641509435,2024,Taiwan,Emb POR
+WORLD PEACE INDUSTRIAL CO.LTD,友通資訊股份有限公司,0.0038638454461821527,2024,Taiwan,Emb POR
+WORLD PEACE INDUSTRIAL CO.LTD,威強電工業電腦股份有限公司,0.9420384951881015,2024,Taiwan,Emb POR
+WORLD PEACE INDUSTRIAL CO.LTD,宜鼎國際股份有限公司,2.113821138211382,2024,Taiwan,Emb POR
+WORLD PEACE INDUSTRIAL CO.LTD,浩鑫電腦股份有限公司,26.0,2024,Taiwan,Emb POR
+WORLD PEACE INDUSTRIAL CO.LTD,瑞傳科技公司,0.5825087775295245,2024,Taiwan,Emb POR
+WORLD PEACE INDUSTRIAL CO.LTD,長豐企業有限公司,0.0824207140821561,2024,Taiwan,Emb POR
+"WT MICROELECTRONICS CO., LTD.",Asrock Incorporation,10.616307260431288,2024,Taiwan,Emb POR
+"WT MICROELECTRONICS CO., LTD.","Aten International Co., Ltd.",7.0,2024,Taiwan,Emb POR
+"WT MICROELECTRONICS CO., LTD.","Giga Computing Technology Co.,ltd.",5.454395628225702,2024,Taiwan,Emb POR
+"WT MICROELECTRONICS CO., LTD.",Synology Incorporated,19.551170339996585,2024,Taiwan,Emb POR
+"WT MICROELECTRONICS CO., LTD.",微星科技,0.18368657675016056,2024,Taiwan,Emb POR
+SERTEK  INCORPORATED,A-trust Computer Corp.,85.0,2024,Taiwan,NB CPU
+SERTEK  INCORPORATED,Advantech,15.070703817039782,2024,Taiwan,NB CPU
+SERTEK  INCORPORATED,Jet Way,43.98829201101928,2024,Taiwan,NB CPU
+SERTEK  INCORPORATED,Moxa Inc.,3.3266832917705735,2024,Taiwan,NB CPU
+SERTEK  INCORPORATED,光宸科技 Quanmax,20.85900681596884,2024,Taiwan,NB CPU
+SERTEK  INCORPORATED,台灣康泰克股份有限公司,12.970166379804933,2024,Taiwan,NB CPU
+SERTEK  INCORPORATED,振樺電子股份有限公司,107.53883106485188,2024,Taiwan,NB CPU
+SYNNEX TECHNOLOGY INT'L CORP,Bcm Computer Co.,42.36842105263158,2024,Taiwan,NB CPU
+SYNNEX TECHNOLOGY INT'L CORP,"Elo Touch Solutions, Inc.",92.37113402061856,2024,Taiwan,NB CPU
+SYNNEX TECHNOLOGY INT'L CORP,"Lex Computech Co., Ltd.",16.732804232804234,2024,Taiwan,NB CPU
+SYNNEX TECHNOLOGY INT'L CORP,"Nexcom International Co., Ltd",13.303747534516765,2024,Taiwan,NB CPU
+SYNNEX TECHNOLOGY INT'L CORP,"Ubiqconn Technology, Inc.",26.621926910299003,2024,Taiwan,NB CPU
+SYNNEX TECHNOLOGY INT'L CORP,凌華科技,1.0410729253981559,2024,Taiwan,NB CPU
+SYNNEX TECHNOLOGY INT'L CORP,艾訊,2.030008826125331,2024,Taiwan,NB CPU
+SYNNEX TECHNOLOGY INT'L CORP,飛捷科技,55.721739130434784,2024,Taiwan,NB CPU
+SYNNEX TECHNOLOGY INT'L CORPORATION,"Elitegroup Computer Systems Co.,ltd.",43.02843337669578,2024,Taiwan,NB CPU
+WORLD PEACE INDUSTRIAL CO.LTD,Aaeon Technology Inc,35.55692307692308,2024,Taiwan,NB CPU
+WORLD PEACE INDUSTRIAL CO.LTD,Avalue,54.70861268695204,2024,Taiwan,NB CPU
+WORLD PEACE INDUSTRIAL CO.LTD,Getac Corporation,17.695209913075644,2024,Taiwan,NB CPU
+WORLD PEACE INDUSTRIAL CO.LTD,Litemax Electronics Inc.,45.09803921568628,2024,Taiwan,NB CPU
+WORLD PEACE INDUSTRIAL CO.LTD,"Senao Networks, Inc.",18.74298375184638,2024,Taiwan,NB CPU
+WORLD PEACE INDUSTRIAL CO.LTD,Uniwill Technology Inc.,210.56664872622892,2024,Taiwan,NB CPU
+WORLD PEACE INDUSTRIAL CO.LTD,南京資訊股份有限公司,2.2389380530973453,2024,Taiwan,NB CPU
+WORLD PEACE INDUSTRIAL CO.LTD,友通資訊股份有限公司,12.196428571428571,2024,Taiwan,NB CPU
+WORLD PEACE INDUSTRIAL CO.LTD,浩鑫電腦股份有限公司,48.17387524451206,2024,Taiwan,NB CPU
+WORLD PEACE INDUSTRIAL CO.LTD,長豐企業有限公司,5.8370890284447725,2024,Taiwan,NB CPU
+"WT MICROELECTRONICS CO., LTD.",Asrock Incorporation,6.593505039193729,2024,Taiwan,NB CPU
+"WT MICROELECTRONICS CO., LTD.",Clevo Co.,155.17567754511728,2024,Taiwan,NB CPU
+"WT MICROELECTRONICS CO., LTD.",Nexteq Plc Taiwan Branch (u.k.),23.778071334214,2024,Taiwan,NB CPU
+"WT MICROELECTRONICS CO., LTD.",仁寶電腦,98.98876404494382,2024,Taiwan,NB CPU
+"WT MICROELECTRONICS CO., LTD.",和碩聯合科技股份有限公司,67.85798816568047,2024,Taiwan,NB CPU
+RASHI PERIPHERALS LTD,Esconet Technologies Private Limited,380.90909090909093,2024,India,Server CPU
+RASHI PERIPHERALS LTD,Global Electronic Pte Ltd,1485.0,2024,India,Server CPU
+RASHI PERIPHERALS LTD,Infinite Technologies,300.0,2024,India,Server CPU
+RASHI PERIPHERALS LTD,Sheeltron Digital Systems Pvt Ltd,7825.807606263982,2024,India,Server CPU
+World Peace International (South Asia),Mega Networks Private Limited,1427.778009742519,2024,India,Server CPU
+World Peace International (South Asia),Netweb Technologies India Limited,749.8391345249295,2024,India,Server CPU
+World Peace International (South Asia),Vvdn Technologies Private Limited,1520.0,2024,India,Server CPU
+Rashi Peripherals Limited,Espa India Tech Private Limited,86.0,2024,India,DT CPU
+Rashi Peripherals Limited,Inp Technologies Pvt Ltd,55.839962997224795,2024,India,DT CPU
+Rashi Peripherals Limited,Schoolnet India Limited,36.0,2024,India,DT CPU
+Rashi Peripherals Limited,Wintech-bharat Private Limited,53.0,2024,India,DT CPU
+World Peace International,Aditech Ict Private Limited,78.97919556171983,2024,India,DT CPU
+World Peace International,Bits And Bytes Integrators Pri,39.67637039331062,2024,India,DT CPU
+World Peace International,Champion Computers Private Lim,82.5440931780366,2024,India,DT CPU
+World Peace International,Inp Technologies Pvt Ltd,108.0,2024,India,DT CPU
+World Peace International,Nash Industries (i) Private Limited,5.064935064935065,2024,India,DT CPU
+World Peace International,Xtreme Media Private Limited,77.2,2024,India,DT CPU
+World Peace International (South Asia),Devaraj Computer Private Limited,12.57123287671233,2024,India,DT CPU
+World Peace International (South Asia),Microland Computers,48.333333333333336,2024,India,DT CPU
+World Peace International (South Asia),Netweb Technologies India Limited,21.75,2024,India,DT CPU
+World Peace International (South Asia),Voltriq India Pvt Ltd,54.205607476635514,2024,India,DT CPU
+ASBISC ENTERPRISES PLC,100mega Distribution S.r.o.,6.856296296296296,2024,RCIS,DT CPU
+ASBISC ENTERPRISES PLC,Alzasoft.cz.,12.926577042399172,2024,RCIS,DT CPU
+ASBISC ENTERPRISES PLC,Maguay Impex Srl,30.0,2024,RCIS,DT CPU
+ASBISC ENTERPRISES PLC,Pc Garage Srl,0.5462555066079295,2024,RCIS,DT CPU
+Elko Grupa AS,Artline,5.9071729957805905,2024,RCIS,DT CPU
+Elko Grupa AS,Artline_ua,15.36986301369863,2024,RCIS,DT CPU
+Elko Grupa AS,Pc Garage Srl,0.8643457382953181,2024,RCIS,DT CPU
+TD SYNNEX Supply Chain Services,Alzacz As,42.21105527638191,2024,RCIS,DT CPU
+Arrow Central Europe GmbH,Zes Zollner Electronic Srl,84.0,2024,RCIS,NB CPU
+"COIT Co., Ltd.",Dsngsystem,1378.793313069909,2024,SKorea,Server CPU
+"COIT Co., Ltd.","Ktnf Co.,ltd",370.7163120567376,2024,SKorea,Server CPU
+"COIT Co., Ltd.",Sandia Systems,1726.5064935064936,2024,SKorea,Server CPU
+"COIT Co., Ltd.","Teratec Co., Ltd.",528.2758620689655,2024,SKorea,Server CPU
+Intech & Company Incorporation,Myung In Electronics Co Ltd (명인일렉트로닉스),892.7661691542288,2024,SKorea,Server CPU
+Intech & Company Incorporation,"Tera Tec Co., Ltd",908.0121951219512,2024,SKorea,Server CPU
+"COIT Co., Ltd.","Atec Co.,ltd.",37.0,2024,SKorea,DT CPU
+"COIT Co., Ltd.",Comtree Inc,89.9010989010989,2024,SKorea,DT CPU
+"COIT Co., Ltd.",Dacom System,31.67769940314704,2024,SKorea,DT CPU
+"COIT Co., Ltd.",Ny Computer,31.0,2024,SKorea,DT CPU
+"COIT Co., Ltd.",Redstone,43.82302771855011,2024,SKorea,DT CPU
+"COIT Co., Ltd.",대우루컴즈,48.689243027888445,2024,SKorea,DT CPU
+Intech & Company Incorporation,"Atec Co.,ltd.",40.13157894736842,2024,SKorea,DT CPU
+Intech & Company Incorporation,"Compuzone Co.,ltd",1.0986775178026449,2024,SKorea,DT CPU
+Intech & Company Incorporation,Dacom System,43.01020408163265,2024,SKorea,DT CPU
+Intech & Company Incorporation,Hksystem Corporation,103.48675034867503,2024,SKorea,DT CPU
+Intech & Company Incorporation,Kirin,89.18181818181819,2024,SKorea,DT CPU
+Intech & Company Incorporation,Red Stone System,25.158004158004157,2024,SKorea,DT CPU
+Intech & Company Incorporation,"Reputer Co.,ltd",44.67741935483871,2024,SKorea,DT CPU
+Intech & Company Incorporation,Utoo,21.0,2024,SKorea,DT CPU
+Intech & Company Incorporation,대우루컴즈,67.09677419354838,2024,SKorea,DT CPU
+PC Direct Inc.,(주)늑대와여우컴퓨터,41.91616766467066,2024,SKorea,DT CPU
+PC Direct Inc.,(주)트리엠,47.16305372290292,2024,SKorea,DT CPU
+PC Direct Inc.,"Atec Co.,ltd.",29.621451104100945,2024,SKorea,DT CPU
+PC Direct Inc.,Dacom System,21.0,2024,SKorea,DT CPU
+PC Direct Inc.,Hk System,106.0,2024,SKorea,DT CPU
+PC Direct Inc.,"MCOM Co.,LTD",79.66666666666667,2024,SKorea,DT CPU
+PC Direct Inc.,Redstone,21.0,2024,SKorea,DT CPU
+PC Direct Inc.,Sungju Com Tech,58.84805653710247,2024,SKorea,DT CPU
+PC Direct Inc.,Sungju Comtech,48.34038267875126,2024,SKorea,DT CPU
+PC Direct Inc.,"T1 Ls Co.,ltd",24.313827032625582,2024,SKorea,DT CPU
+PC Direct Inc.,Utoo,25.655889145496534,2024,SKorea,DT CPU
+PC Direct Inc.,대우루컴즈,24.483870967741936,2024,SKorea,DT CPU
+PC Direct Inc.,아인스시스템,1.5186311787072244,2024,SKorea,DT CPU
+Uniquest ,Secui Corp.,45.0,2024,SKorea,DT CPU
+Xrosgen Inc.,S Com Inc.,4.323213686682322,2024,SKorea,DT CPU
+Uniquest ,"Ktnf Co.,ltd",6.5,2024,SKorea,Emb POR
+SYNNEX FPT DISTRIBUTION,Cn Cty Tnhh San Pham Cong Nghe Fpt (tp Hn),1.6135792120704107,2024,SEA,DT CPU
+WPG Electronics (SA) Pte.Ltd,Gamma Solution Sdn Bhd,100.09501187648456,2024,SEA,DT CPU
+WPG Electronics (SA) Pte.Ltd,Sns Network Services Sdn. Bhd.,87.20989650711513,2024,SEA,DT CPU
+WPG Electronics (SA) Pte.Ltd,V-series International Sdn Bhd,100.5727923627685,2024,SEA,DT CPU
+ARROW ASIA PAC Ltd.,Cloud Network Technology Singa,56.0,2024,SEA,Emb POR
+WORLD PEACE INDUSTRIAL CO.LTD,Delta,4.223636957231473,2024,SEA,Emb POR
+WPG Electronics (SA) Pte.Ltd,Celestica (thailand) Limited,5.335820895522388,2024,SEA,Emb POR
+Tokyo Electron Device Limited,Toshiba Global Commerce Soluti,15.206219690554999,2024,SEA,NB CPU
+"ASI COMPUTER TECHNOLOGIES, INC.",Advanced Clustering Tech Inc (ge),520.9677419354839,2024,USA,Server CPU
+"ASI COMPUTER TECHNOLOGIES, INC.","Barracuda Networks, Inc.",167.36494845360824,2024,USA,Server CPU
+"ASI COMPUTER TECHNOLOGIES, INC.",Coastline Micro Inc,226.67977528089887,2024,USA,Server CPU
+"ASI COMPUTER TECHNOLOGIES, INC.",Equus Computer Systems Inc,63.0929203539823,2024,USA,Server CPU
+"ASI COMPUTER TECHNOLOGIES, INC.",Ixsystems Inc.,254.4920634920635,2024,USA,Server CPU
+"ASI COMPUTER TECHNOLOGIES, INC.",Puget Custom Computers,43.75,2024,USA,Server CPU
+"ASI COMPUTER TECHNOLOGIES, INC.",Source Code Corp,267.3952095808383,2024,USA,Server CPU
+"ASI COMPUTER TECHNOLOGIES, INC.",Yang-ming International Corporation,285.99369085173504,2024,USA,Server CPU
+TD SYNNEX Corporation,Advantech Corp,126.50445859872612,2024,USA,Server CPU
+TD SYNNEX Corporation,Amax Engineering Corp,11018.0,2024,USA,Server CPU
+TD SYNNEX Corporation,Colfax International,143.50877192982455,2024,USA,Server CPU
+TD SYNNEX Corporation,Datadirect Networks Inc,285.04425914047465,2024,USA,Server CPU
+TD SYNNEX Corporation,Equus Computer Systems Inc,113.6,2024,USA,Server CPU
+TD SYNNEX Corporation,Ixsystems Inc.,486.04621309370987,2024,USA,Server CPU
+TD SYNNEX Corporation,Microtech Computers Inc,1314.2545454545455,2024,USA,Server CPU
+TD SYNNEX Corporation,Penguin Computing Inc,1117.6792452830189,2024,USA,Server CPU
+TD SYNNEX Corporation,Pssc Labs,1432.8,2024,USA,Server CPU
+TD SYNNEX Corporation,Transource Services Corp,318.81632653061223,2024,USA,Server CPU
+TD SYNNEX Corporation,Trenton Systems,14.120724346076459,2024,USA,Server CPU
+WPG Electronics (SA) Pte.Ltd,"Smart Embedded Computing, Inc.",78.0,2024,USA,Server CPU
+"ASI COMPUTER TECHNOLOGIES, INC.",Advanced Battlestations Inc,15.813701330704781,2024,USA,DT CPU
+"ASI COMPUTER TECHNOLOGIES, INC.",American Future Technology Cor,57.89133400018187,2024,USA,DT CPU
+"ASI COMPUTER TECHNOLOGIES, INC.",Nzxt Inc,27.367847411444142,2024,USA,DT CPU
+"ASI COMPUTER TECHNOLOGIES, INC.",Skytech Gaming,84.40366972477064,2024,USA,DT CPU
+"ASI COMPUTER TECHNOLOGIES, INC.",Thermaltake Inc,49.65744257551094,2024,USA,DT CPU
+D&H DISTRIBUTING COMPANY,King Gaming Labs Inc,18.0,2024,USA,DT CPU
+TD SYNNEX Corporation,Advanced Battlestations Inc,29.061126648022373,2024,USA,DT CPU
+TD SYNNEX Corporation,Amazon.com Services Llc,1.2195121951219512,2024,USA,DT CPU
+TD SYNNEX Corporation,American Future Technology Cor,64.57741912749313,2024,USA,DT CPU
+TD SYNNEX Corporation,Brainstorm Corporation,49.57728706624606,2024,USA,DT CPU
+TD SYNNEX Corporation,"Corsair Memory, Inc",25.01004016064257,2024,USA,DT CPU
+TD SYNNEX Corporation,Cyberpower Inc,45.331118747613594,2024,USA,DT CPU
+TD SYNNEX Corporation,Cybertron International Inc,46.625357483317444,2024,USA,DT CPU
+TD SYNNEX Corporation,Embedtek Llc,83.27153110047847,2024,USA,DT CPU
+TD SYNNEX Corporation,International Products Sourcin,149.70290243118774,2024,USA,DT CPU
+TD SYNNEX Corporation,King Gaming Labs Inc,19.95458515283843,2024,USA,DT CPU
+TD SYNNEX Corporation,Pc Laptops Llc,10.442477876106194,2024,USA,DT CPU
+TD SYNNEX Corporation,Skytech Gaming,55.27727727727728,2024,USA,DT CPU
+TD SYNNEX Corporation,Transource Services Corp,81.41138151425763,2024,USA,DT CPU
+TD SYNNEX Corporation,VDT Techs Inc.,35.706583427922816,2024,USA,DT CPU
+ARROW ASIA PAC Ltd.,"Jabil Circuit (wuxi) Co., Ltd.",871.4211798839458,2024,PRC,Server CPU
+ARROW ASIA PAC Ltd.,Siemens Shenzhen Magnetic Reso,28.18787585164071,2024,PRC,Server CPU
+ARROW ASIA PAC Ltd.,Wuxi Xinje,764.8148148148148,2024,PRC,Server CPU
+Comtech Industrial (HK) Ltd.,"Gosuncn Technology Group Co., Ltd.",531.0128373930218,2024,PRC,Server CPU
+Comtech Industrial (HK) Ltd.,Start,412.2289529392607,2024,PRC,Server CPU
+Comtech Industrial (HK) Ltd.,浙江宇视科技有限公司,32.52892561983471,2024,PRC,Server CPU
+Digital  Macao Commercial,"Chengdu Waso Information Technology Co., Ltd.",1454.2413793103449,2024,PRC,Server CPU
+Digital  Macao Commercial,Enginetech,5107.0,2024,PRC,Server CPU
+Digital  Macao Commercial,"Fiberhome Supermicro Technologies Co., Ltd.",705.6786594381468,2024,PRC,Server CPU
+Digital  Macao Commercial,Gooxi,2236.0,2024,PRC,Server CPU
+Digital  Macao Commercial,"Guangzhou Tianao Information Technology Co., Ltd(gid:30000006087)",571.0,2024,PRC,Server CPU
+Digital  Macao Commercial,Horchiot,395.082655471005,2024,PRC,Server CPU
+Digital  Macao Commercial,"Huake Bochuang Technology Co., Ltd.",438.0,2024,PRC,Server CPU
+Digital  Macao Commercial,"Huaqin Technology Co., Ltd.",3262.7026841018583,2024,PRC,Server CPU
+Digital  Macao Commercial,Infinova,395.5491329479769,2024,PRC,Server CPU
+Digital  Macao Commercial,"Lancoo Group Co., Ltd.",239.4382470119522,2024,PRC,Server CPU
+Digital  Macao Commercial,Linktel Hpc (beijing) Technology Limited Liability Co.,583.5986597170514,2024,PRC,Server CPU
+Digital  Macao Commercial,Lon Microsystems Inc.,563.8513853904282,2024,PRC,Server CPU
+Digital  Macao Commercial,Nanjing Kunqian Computer Co.,668.5222024866785,2024,PRC,Server CPU
+Digital  Macao Commercial,Roycom (tianjin) Information T,457.0,2024,PRC,Server CPU
+Digital  Macao Commercial,Sangfor Technologies Enterprise,291.55381672752566,2024,PRC,Server CPU
+Digital  Macao Commercial,"Shaanxi Yunsifu Technology Co.,ltd.",885.0,2024,PRC,Server CPU
+Digital  Macao Commercial,Shenbo Information Technology,182.0,2024,PRC,Server CPU
+Digital  Macao Commercial,Shenzhen J&w Electronic Co. Ltd,406.1904761904762,2024,PRC,Server CPU
+Digital  Macao Commercial,Shenzhen Ming Lian Yuan Chuang Technology,476.0,2024,PRC,Server CPU
+Digital  Macao Commercial,Siland (chengdu) Technology Co. Ltd,2476.0,2024,PRC,Server CPU
+Digital  Macao Commercial,Sitonholy（思腾合力（天津）科技有限公司）,369.0,2024,PRC,Server CPU
+Digital  Macao Commercial,Supercloud,708.2503660322109,2024,PRC,Server CPU
+Digital  Macao Commercial,Suzhou Super Cluster Information Technology Co. Ltd.(ipa: 301271840),1284.5488069414316,2024,PRC,Server CPU
+Digital  Macao Commercial,Wuhan Ningmei Guodu Science&technology,492.0,2024,PRC,Server CPU
+Digital  Macao Commercial,Wuhan Ningmei Kingdom Tech Co. Ltd,150.0,2024,PRC,Server CPU
+Digital  Macao Commercial,Xingrong Information Tech,892.806116876024,2024,PRC,Server CPU
+Digital  Macao Commercial,Yuge Electronic Technology Co. Ltd,438.0,2024,PRC,Server CPU
+Digital  Macao Commercial,上海宽泛科技有限公司,790.0,2024,PRC,Server CPU
+Digital  Macao Commercial,保定市吉成科技开发有限公司,377.22,2024,PRC,Server CPU
+Digital  Macao Commercial,北京东土科技股份有限公司,568.0,2024,PRC,Server CPU
+Digital  Macao Commercial,南京坤前计算机科技有限公司,1321.9655172413793,2024,PRC,Server CPU
+Digital  Macao Commercial,武汉宁美国度科技有限公司,492.0,2024,PRC,Server CPU
+Digital  Macao Commercial,比亚迪股份有限公司,811.8333333333334,2024,PRC,Server CPU
+Digital  Macao Commercial,河北海迪亚电子科技有限公司,286.71751412429376,2024,PRC,Server CPU
+Digital  Macao Commercial,深圳市同泰怡信息技术有限公司,333.0,2024,PRC,Server CPU
+Digital  Macao Commercial,深圳市明联远创科技有限公司,1258.8,2024,PRC,Server CPU
+Digital  Macao Commercial,融科联创,936.6612244897959,2024,PRC,Server CPU
+EX-CHANNEL GROUP LIMITED,Beijing Supercloud Technology Co.ltd,588.0,2024,PRC,Server CPU
+EX-CHANNEL GROUP LIMITED,"Daschip Information Technology (shanghai) Co., Ltd",40.72243528283797,2024,PRC,Server CPU
+EX-CHANNEL GROUP LIMITED,"Enginetech (tianjin) Computer Co.,ltd",2712.437037037037,2024,PRC,Server CPU
+EX-CHANNEL GROUP LIMITED,"Han’s Smart Control Technology Co.,ltd.1",252.01070791195716,2024,PRC,Server CPU
+EX-CHANNEL GROUP LIMITED,Os-easy,739.1144067796611,2024,PRC,Server CPU
+EX-CHANNEL GROUP LIMITED,"Powerleader Computer System Co.,ltd.",777.1550497866288,2024,PRC,Server CPU
+EX-CHANNEL GROUP LIMITED,"Shenzhen Konghui Intelligent Co.,ltd.",35.25786924939467,2024,PRC,Server CPU
+EX-CHANNEL GROUP LIMITED,"Shenzhen Zhiyuan Integration Technology Co.,Ltd",319.7781885397412,2024,PRC,Server CPU
+EX-CHANNEL GROUP LIMITED,深圳市宝德计算机系统有限公司,210.75,2024,PRC,Server CPU
+EX-CHANNEL GROUP LIMITED,融科联创,1006.2487745098039,2024,PRC,Server CPU
+INGRAM MICRO INTL TRADING LTD,北京畅想嘉业信息科技有限公司,190.0,2024,PRC,Server CPU
+INGRAM MICRO INTL TRADING LTD,杭州众志成鑫科技有限公司,351.85526315789474,2024,PRC,Server CPU
+Synnex Technology Int'l Corp.,Hikvision,130.42857142857142,2024,PRC,Server CPU
+Synnex Technology Intl. (HK) Limited,Guangdong Waycloud Information Technology Limited,2135.714285714286,2024,PRC,Server CPU
+Synnex Technology Intl. (HK) Limited,"Jingxin Technology (shenzhen) Co., Ltd",914.0,2024,PRC,Server CPU
+Synnex Technology Intl. (HK) Limited,"Paibo Information Technology Co., Ltd",528.0,2024,PRC,Server CPU
+Synnex Technology Intl. (HK) Limited,Tian Ao,2226.0,2024,PRC,Server CPU
+Synnex Technology Intl. (HK) Limited,宝德科技集团股份有限公司,3555.0,2024,PRC,Server CPU
+Synnex Technology Intl. (HK) Limited,深圳市立尔讯科技有限公司,823.0,2024,PRC,Server CPU
+Synnex Technology Intl. (HK) Limited,长城超云（北京）科技有限公司,1894.0673635307783,2024,PRC,Server CPU
+WORLD PEACE INDUSTRIAL CO LTD,Aprocloud,440.20100502512565,2024,PRC,Server CPU
+WORLD PEACE INDUSTRIAL CO LTD,Centerm,450.70364688654905,2024,PRC,Server CPU
+WORLD PEACE INDUSTRIAL CO LTD,Jovision,480.91721419185285,2024,PRC,Server CPU
+WORLD PEACE INDUSTRIAL CO LTD,"Noon Technology Co., Ltd.",349.8402555910543,2024,PRC,Server CPU
+WORLD PEACE INDUSTRIAL CO LTD,Shanghai Lingshi Communication Technology,212.0,2024,PRC,Server CPU
+WORLD PEACE INDUSTRIAL CO LTD,Siasun,441.4001916320664,2024,PRC,Server CPU
+WORLD PEACE INDUSTRIAL CO LTD,Wan You,648.8934753661784,2024,PRC,Server CPU
+WORLD PEACE INDUSTRIAL COMPANY LTD,Unknown,427.0,2024,PRC,Server CPU
+ARROW ASIA PAC Ltd.,Shenzhen Hanzsung Technology Co Ltd,38.0,2024,PRC,DT CPU
+ARROW ASIA PAC Ltd.,"Shenzhen Lachesis Mobile Medical Technology Co., Ltd.",139.24131944444446,2024,PRC,DT CPU
+ARROW ASIA PAC Ltd.,"Shenzhen Seavo Technology Co., Ltd.",38.0,2024,PRC,DT CPU
+ARROW ASIA PAC Ltd.,Siemens Shenzhen Magnetic Reso,10.0,2024,PRC,DT CPU
+Comtech Industrial (HK) Ltd.,"Shenzhen International Safety Technology Co., Ltd.",94.83771779979502,2024,PRC,DT CPU
+Comtech Industrial (HK) Ltd.,Start,34.45194163514244,2024,PRC,DT CPU
+Digital  Macao Commercial,Asl,21.0,2024,PRC,DT CPU
+Digital  Macao Commercial,"Beijing Uniwise Technology Co., Ltd.",44.91734379377977,2024,PRC,DT CPU
+Digital  Macao Commercial,"Coocaa Network Technology Co., Ltd",24.0,2024,PRC,DT CPU
+Digital  Macao Commercial,"Coocaa Network Technology Co., Ltd.",82.0,2024,PRC,DT CPU
+Digital  Macao Commercial,Histone,93.28358208955224,2024,PRC,DT CPU
+Digital  Macao Commercial,"Huake Bochuang Technology Co., Ltd.",71.0,2024,PRC,DT CPU
+Digital  Macao Commercial,Ics-广州皓阳科技有限公司,39.393181818181816,2024,PRC,DT CPU
+Digital  Macao Commercial,Ics-陕西知也科技有限公司,51.51209677419355,2024,PRC,DT CPU
+Digital  Macao Commercial,Ruijie,12.530315278900567,2024,PRC,DT CPU
+Digital  Macao Commercial,"Shenyang Tiger Trade Co., Ltd",56.858736059479554,2024,PRC,DT CPU
+Digital  Macao Commercial,"Shenzhen Ishine Intelligent Co., Ltd",21.0,2024,PRC,DT CPU
+Digital  Macao Commercial,Unknown,27.49241767764298,2024,PRC,DT CPU
+Digital  Macao Commercial,"Wuhan Gintol Technology Co., Ltd",41.57142857142857,2024,PRC,DT CPU
+Digital  Macao Commercial,Wuhan Mloong Technology Co. Ltd,37.99428323949762,2024,PRC,DT CPU
+Digital  Macao Commercial,Wuhan Ningmei Kingdom Tech Co. Ltd,67.07868852459016,2024,PRC,DT CPU
+Digital  Macao Commercial,Yuge Electronic Technology Co. Ltd,47.87568242083918,2024,PRC,DT CPU
+Digital  Macao Commercial,上海神姬科技有限公司,19.18488160291439,2024,PRC,DT CPU
+Digital  Macao Commercial,上海酷创网络科技有限公司,25.61132561132561,2024,PRC,DT CPU
+Digital  Macao Commercial,上海铭响电子商务有限公司,19.86161449752883,2024,PRC,DT CPU
+Digital  Macao Commercial,中国长城科技集团股份有限公司,39.62283077540375,2024,PRC,DT CPU
+Digital  Macao Commercial,乌鲁木齐鑫宏嘉商贸有限公司,72.87479406919275,2024,PRC,DT CPU
+Digital  Macao Commercial,保定市吉成科技开发有限公司,30.026385224274406,2024,PRC,DT CPU
+Digital  Macao Commercial,北京翰讯基业电子技术有限公司,52.41935483870968,2024,PRC,DT CPU
+Digital  Macao Commercial,北京英红万联科技有限公司,67.16624040920716,2024,PRC,DT CPU
+Digital  Macao Commercial,南京和瑟电子科技有限公司,33.56851311953353,2024,PRC,DT CPU
+Digital  Macao Commercial,南京坤前計算機科技有限公司,75.0,2024,PRC,DT CPU
+Digital  Macao Commercial,南京祥长汇电子科技有限公司,45.38525559780312,2024,PRC,DT CPU
+Digital  Macao Commercial,南京茂玖呈系统集成有限公司,36.430562006502555,2024,PRC,DT CPU
+Digital  Macao Commercial,南宁鑫迈普电子科技有限公司,41.904761904761905,2024,PRC,DT CPU
+Digital  Macao Commercial,南昌市沪祺实业有限公司,24.588377723970943,2024,PRC,DT CPU
+Digital  Macao Commercial,合肥巧鹰电子技术有限公司,39.43074003795066,2024,PRC,DT CPU
+Digital  Macao Commercial,哈尔滨利华网络开发有限公司,38.088235294117645,2024,PRC,DT CPU
+Digital  Macao Commercial,宁波怡通云硕电子商务有限公司,12.146964856230031,2024,PRC,DT CPU
+Digital  Macao Commercial,山西至诚志远科技有限公司,34.48141592920354,2024,PRC,DT CPU
+Digital  Macao Commercial,广州市得丰隆发展有限公司,33.08874028555937,2024,PRC,DT CPU
+Digital  Macao Commercial,广州广之嘉电子科技有限公司,30.950522750699456,2024,PRC,DT CPU
+Digital  Macao Commercial,成都兴成创投科技有限公司,61.62018348623853,2024,PRC,DT CPU
+Digital  Macao Commercial,成都蜀码科技有限公司,45.42239185750636,2024,PRC,DT CPU
+Digital  Macao Commercial,成都顺诚瑞兴科技有限公司,50.03623188405797,2024,PRC,DT CPU
+Digital  Macao Commercial,杭州众志成鑫科技有限公司,47.02950443998854,2024,PRC,DT CPU
+Digital  Macao Commercial,武汉宁美国度科技有限公司,9.462783773725345,2024,PRC,DT CPU
+Digital  Macao Commercial,武汉市洪山区宏芯电脑经营部,33.50609756097561,2024,PRC,DT CPU
+Digital  Macao Commercial,武汉市洪山区欣至胜电脑经营部,35.12384473197782,2024,PRC,DT CPU
+Digital  Macao Commercial,武汉市金楚恒鑫科技有限公司,33.75813953488372,2024,PRC,DT CPU
+Digital  Macao Commercial,武汉瑞达腾飞科技有限公司,18.574257425742573,2024,PRC,DT CPU
+Digital  Macao Commercial,沈阳安佳美商贸有限公司,22.060919379628334,2024,PRC,DT CPU
+Digital  Macao Commercial,河北海迪亚电子科技有限公司,58.92126094082366,2024,PRC,DT CPU
+Digital  Macao Commercial,河北美昆电子科技有限公司,19.02857142857143,2024,PRC,DT CPU
+Digital  Macao Commercial,泉州新裕星数码科技有限公司,37.71952259164535,2024,PRC,DT CPU
+Digital  Macao Commercial,济南鑫民信科技有限公司,40.81042988019732,2024,PRC,DT CPU
+Digital  Macao Commercial,浩天金士博(北京)责任有限公司,37.85588329592818,2024,PRC,DT CPU
+Digital  Macao Commercial,深圳云天畅想信息科技有限公司,113.97058823529412,2024,PRC,DT CPU
+Digital  Macao Commercial,深圳市卓志投资有限公司,26.08125,2024,PRC,DT CPU
+Digital  Macao Commercial,深圳市明联远创科技有限公司,58.353350887624224,2024,PRC,DT CPU
+Digital  Macao Commercial,深圳市福田区赛格电子市场恒祥伟业经营部,46.25665035113854,2024,PRC,DT CPU
+Digital  Macao Commercial,湖南蓝威电脑有限公司,47.729166666666664,2024,PRC,DT CPU
+Digital  Macao Commercial,湖南裕盛信息科技有限公司,19.790940766550523,2024,PRC,DT CPU
+Digital  Macao Commercial,福州中硕电子有限公司,58.591733870967744,2024,PRC,DT CPU
+Digital  Macao Commercial,西安文斯顿电子科技有限公司,22.46511627906977,2024,PRC,DT CPU
+Digital  Macao Commercial,辽宁润德科技有限公司,28.424242424242426,2024,PRC,DT CPU
+Digital  Macao Commercial,郑州天运骋久电子科技有限公司,61.71206225680934,2024,PRC,DT CPU
+Digital  Macao Commercial,重庆典裕科技有限公司,13.416666666666666,2024,PRC,DT CPU
+Digital  Macao Commercial,重庆图迈信息技术有限公司,21.240963855421686,2024,PRC,DT CPU
+Digital  Macao Commercial,重庆达幻科技有限公司,32.73963290278722,2024,PRC,DT CPU
+Digital  Macao Commercial,陕西泽润电子科技有限公司,39.18684210526316,2024,PRC,DT CPU
+Digital  Macao Commercial,陕西瑞力电子科技有限公司,58.38582677165354,2024,PRC,DT CPU
+EX-CHANNEL GROUP LIMITED,Os-easy,49.02898120252896,2024,PRC,DT CPU
+EX-CHANNEL GROUP LIMITED,"Shenzhen Genew Intelligent Technology Co., Ltd.",36.36363636363637,2024,PRC,DT CPU
+EX-CHANNEL GROUP LIMITED,"Shenzhen Konghui Intelligent Co.,ltd.",59.90623787725968,2024,PRC,DT CPU
+EX-CHANNEL GROUP LIMITED,"Shenzhen Zhiyuan Integration Technology Co.,Ltd",28.032384341637012,2024,PRC,DT CPU
+EX-CHANNEL GROUP LIMITED,億川國際發展有限公司,68.558352402746,2024,PRC,DT CPU
+INGRAM MICRO INTL TRADING LTD,Unknown,6.617169373549884,2024,PRC,DT CPU
+INGRAM MICRO INTL TRADING LTD,北京联合伟世科技股份有限公司,8.742690058479532,2024,PRC,DT CPU
+INGRAM MICRO INTL TRADING LTD,北京英红万联科技有限公司,9.25925925925926,2024,PRC,DT CPU
+INGRAM MICRO INTL TRADING LTD,南京和瑟电子科技有限公司,3.4508627156789196,2024,PRC,DT CPU
+INGRAM MICRO INTL TRADING LTD,济南一达科技产品有限公司,3.602192638997651,2024,PRC,DT CPU
+INGRAM MICRO INTL TRADING LTD,西安悦达顺通电子有限公司,40.235588972431074,2024,PRC,DT CPU
+Synnex Technology Int'l Corp.,Futurerobot,121.2181927469445,2024,PRC,DT CPU
+Synnex Technology Int'l Corp.,Jwipc,95.0,2024,PRC,DT CPU
+Synnex Technology Int'l Corp.,"Qingdao Wintec System Co., Ltd.",121.29109863672815,2024,PRC,DT CPU
+Synnex Technology Int'l Corp.,"Shenzhen Zrt Industrial Co.,ltd",121.51034344245832,2024,PRC,DT CPU
+Synnex Technology International Corp.,Ai-chance,60.135655491574525,2024,PRC,DT CPU
+Synnex Technology International Corp.,七彩虹科技发展有限公司,119.52530042221501,2024,PRC,DT CPU
+Synnex Technology Intl. (HK) Limited,武汉攀升兄弟科技有限公司,33.26513101445449,2024,PRC,DT CPU
+Synnex Technology Intl. (HK) Ltd,"Shenyang Tiger Trade Co., Ltd",14.12280701754386,2024,PRC,DT CPU
+Synnex Technology Intl. (HK) Ltd,Unknown,27.411167512690355,2024,PRC,DT CPU
+Synnex Technology Intl. (HK) Ltd,东莞市华讯信息技术有限公司,17.77777777777778,2024,PRC,DT CPU
+Synnex Technology Intl. (HK) Ltd,唐山云钦商贸有限公司,36.433704453441294,2024,PRC,DT CPU
+Synnex Technology Intl. (HK) Ltd,宁波怡通云硕电子商务有限公司,4.050314465408805,2024,PRC,DT CPU
+Synnex Technology Intl. (HK) Ltd,广州利铎信息科技有限公司,18.64864864864865,2024,PRC,DT CPU
+Synnex Technology Intl. (HK) Ltd,成都蜀刀科技有限公司,24.48409619860357,2024,PRC,DT CPU
+Synnex Technology Intl. (HK) Ltd,成都鑫海众达科技有限公司,13.26259946949602,2024,PRC,DT CPU
+Synnex Technology Intl. (HK) Ltd,杭州众志成鑫科技有限公司,6.963667820069205,2024,PRC,DT CPU
+Synnex Technology Intl. (HK) Ltd,杭州恰自来电子商务有限公司,4.014962593516209,2024,PRC,DT CPU
+Synnex Technology Intl. (HK) Ltd,济南一达科技产品有限公司,30.26431718061674,2024,PRC,DT CPU
+Synnex Technology Intl. (HK) Ltd,福州中硕电子有限公司,13.617283950617283,2024,PRC,DT CPU
+Synnex Technology Intl. (HK) Ltd,西安文斯顿电子科技有限公司,30.919354838709676,2024,PRC,DT CPU
+Synnex Technology Intl. (HK) Ltd,青岛嘉米尔森动漫传媒科技有限公司,54.139753376394594,2024,PRC,DT CPU
+WORLD PEACE INDUSTRIAL CO LTD,Centerm,106.29763337344565,2024,PRC,DT CPU
+WORLD PEACE INDUSTRIAL CO LTD,Global Welltech,35.95333366678337,2024,PRC,DT CPU
+WORLD PEACE INDUSTRIAL CO LTD,"Noon Technology Co., Ltd.",35.94017879522099,2024,PRC,DT CPU
+WORLD PEACE INDUSTRIAL CO LTD,Novastar,133.0,2024,PRC,DT CPU
+WORLD PEACE INDUSTRIAL CO LTD,Shanghai Lingshi Communication Technology,39.83998246383165,2024,PRC,DT CPU
+WORLD PEACE INDUSTRIAL CO LTD,"Suzhou Cvte Electronic Technology Co., Ltd.",75.39443993805766,2024,PRC,DT CPU
+WORLD PEACE INDUSTRIAL CO LTD,"Techvision Intelligent Technology Co., Ltd.",80.47567175018155,2024,PRC,DT CPU
+WORLD PEACE INDUSTRIAL CO LTD,Ugreen,26.011214230471772,2024,PRC,DT CPU
+WORLD PEACE INDUSTRIAL CO LTD,Wan You,62.350883790898834,2024,PRC,DT CPU
+WORLD PEACE INDUSTRIAL COMPANY LTD,Ew Technology,38.69831139476133,2024,PRC,DT CPU
+WORLD PEACE INDUSTRIAL COMPANY LTD,Hedy Computer,29.91203333473631,2024,PRC,DT CPU
+WORLD PEACE INDUSTRIAL COMPANY LTD,Unknown,31.120231185798588,2024,PRC,DT CPU
+WORLD PEACE INDUSTRIAL COMPANY LTD,惠州市万东计算机技术有限公司,45.42857142857143,2024,PRC,DT CPU
+WORLD PEACE INDUSTRIAL COMPANY LTD,深圳市时造电子科技有限公司,60.75,2024,PRC,DT CPU
+WPG Electronics (SA) Pte.Ltd,Pc Partner Limited,0.9912368275097061,2024,PRC,DT CPU
+ARROW ASIA PAC Ltd.,"Shenzhen Seavo Technology Co., Ltd.",5.823784084867205,2024,PRC,Emb POR
+ARROW ASIA PAC Ltd.,"Shenzhen Seavo Technology Co.,ltd.",26.0,2024,PRC,Emb POR
+Arrow Central Europe GmbH,"Aptiv Electronics (suzhou) Co., Ltd.",42.637518958213484,2024,PRC,Emb POR
+Comtech Industrial (HK) Ltd.,"Shenzhen International Safety Technology Co., Ltd.",23.286289240676147,2024,PRC,Emb POR
+Comtech Industrial (HK) Ltd.,"Suzhou Nodka Automation Technology Co., Ltd",20.960888725670216,2024,PRC,Emb POR
+Digital  Macao Commercial,Hangzhou Dptech Technologies C,83.93983739837398,2024,PRC,Emb POR
+Digital  Macao Commercial,Histone,26.024723487312947,2024,PRC,Emb POR
+Digital  Macao Commercial,"Lancoo Group Co., Ltd.",26.0,2024,PRC,Emb POR
+Digital  Macao Commercial,"Luxshare Precision Industry Co.,ltd. (ipa: 30000006643)",389.6993553428404,2024,PRC,Emb POR
+Digital  Macao Commercial,Sangfor Technologies Enterprise,10.526536312849162,2024,PRC,Emb POR
+Digital  Macao Commercial,Shenzhen Grentech Wl Corporation Limited,714.0,2024,PRC,Emb POR
+EX-CHANNEL GROUP LIMITED,"Shenzhen Konghui Intelligent Co.,ltd.",18.49154197345156,2024,PRC,Emb POR
+Synnex Technology Int'l Corp.,Jwipc,23.987305538270068,2024,PRC,Emb POR
+Tokyo Electron Device Limited,Toshiba Tess,3.1092459726546635,2024,PRC,Emb POR
+WORLD PEACE INDUSTRIAL CO LTD,Dbapp,19.012459016393443,2024,PRC,Emb POR
+WORLD PEACE INDUSTRIAL CO LTD,Neusoft,25.477941176470587,2024,PRC,Emb POR
+WORLD PEACE INDUSTRIAL CO LTD,Nexsec,0.31936525656871734,2024,PRC,Emb POR
+WORLD PEACE INDUSTRIAL CO LTD,"Shenzhen Realbom Intelligent Co., Ltd.",25.63335526934286,2024,PRC,Emb POR
+WORLD PEACE INDUSTRIAL CO.LTD,Accton Technology Corporation,1.391051912568306,2024,PRC,Emb POR
+WORLD PEACE INDUSTRIAL CO.LTD,Wistron Infocomm (zhongshan) C,0.5633802816901409,2024,PRC,Emb POR
+"WT MICROELECTRONICS CO., LTD.",Alpha Networks (hong Kong) Limited,6.240461655856543,2024,PRC,Emb POR
+ARROW ASIA PAC Ltd.,Futurerobot,143.0,2024,PRC,NB CPU
+ARROW ASIA PAC Ltd.,Shenzhen Hanzsung Technology Co Ltd,143.0,2024,PRC,NB CPU
+ARROW ASIA PAC Ltd.,Wuxi Xinje,107.71428571428571,2024,PRC,NB CPU
+Comtech Industrial (HK) Ltd.,Start,162.28571428571428,2024,PRC,NB CPU
+Digital  Macao Commercial,Asl,41.33689292814541,2024,PRC,NB CPU
+Digital  Macao Commercial,"Coocaa Network Technology Co., Ltd",28.0,2024,PRC,NB CPU
+Digital  Macao Commercial,Cyxtech,99.81879292707876,2024,PRC,NB CPU
+Digital  Macao Commercial,Decenta,176.03457106274007,2024,PRC,NB CPU
+Digital  Macao Commercial,Dsipc,126.38018538216076,2024,PRC,NB CPU
+Digital  Macao Commercial,Histone,143.6982265046781,2024,PRC,NB CPU
+Digital  Macao Commercial,J & W Technology Ltd.,303.0,2024,PRC,NB CPU
+Digital  Macao Commercial,Kozsmart,24.83943661971831,2024,PRC,NB CPU
+Digital  Macao Commercial,Micro Computer(hk)tech Limited,212.00441640378548,2024,PRC,NB CPU
+Digital  Macao Commercial,"Shenzhen Ishine Intelligent Co., Ltd",106.58472311192595,2024,PRC,NB CPU
+Digital  Macao Commercial,"Shenzhen Madigi Electronic Technology Co., Ltd.",287.0,2024,PRC,NB CPU
+Digital  Macao Commercial,"Shenzhen Maiyunda Technology Co., Ltd",26.567627271814438,2024,PRC,NB CPU
+Digital  Macao Commercial,Ugreen,255.86274509803923,2024,PRC,NB CPU
+Digital  Macao Commercial,"Wuhan Gintol Technology Co., Ltd",209.0,2024,PRC,NB CPU
+Digital  Macao Commercial,Zspace,57.8,2024,PRC,NB CPU
+Digital  Macao Commercial,北京东土科技股份有限公司,170.0,2024,PRC,NB CPU
+Digital  Macao Commercial,广州视源电子科技有限公司,186.0112048192771,2024,PRC,NB CPU
+Digital  Macao Commercial,深圳市江元科技（集团）有限公司,36.80147343931756,2024,PRC,NB CPU
+EX-CHANNEL GROUP LIMITED,"Shenzhen Konghui Intelligent Co.,ltd.",112.58823529411765,2024,PRC,NB CPU
+OKAYA ELECTRONICS (USD),Nec Platform Technologies Hong Kong,34.0,2024,PRC,NB CPU
+Synnex Technology Int'l Corp.,Hikvision,208.0,2024,PRC,NB CPU
+Synnex Technology International Corp.,Inet,91.3054066500875,2024,PRC,NB CPU
+Synnex Technology International Corp.,J&w,189.8478821166391,2024,PRC,NB CPU
+Synnex Technology International Corp.,Madigi,87.98404598754504,2024,PRC,NB CPU
+Synnex Technology International Corp.,"Shenzhen Chiphd Technology Co.,ltd",18.0,2024,PRC,NB CPU
+Synnex Technology International Corp.,Shenzhen Transsion Holdings Co,186.50676036550274,2024,PRC,NB CPU
+Synnex Technology International Corp.,七彩虹科技发展有限公司,208.16027527213674,2024,PRC,NB CPU
+Tokyo Electron Device Limited,Toshiba Tec H K,22.307874481941976,2024,PRC,NB CPU
+WORLD PEACE INDUSTRIAL CO LTD,Decenta,186.18618618618618,2024,PRC,NB CPU
+WORLD PEACE INDUSTRIAL CO LTD,"Noon Technology Co., Ltd.",81.64437058579144,2024,PRC,NB CPU
+WORLD PEACE INDUSTRIAL CO LTD,"Shenzhen Realbom Intelligent Co., Ltd.",127.78784664343083,2024,PRC,NB CPU
+WORLD PEACE INDUSTRIAL CO LTD,"Techvision Intelligent Technology Co., Ltd.",18.117765475591344,2024,PRC,NB CPU
+WORLD PEACE INDUSTRIAL CO LTD,Ugreen,55.4468085106383,2024,PRC,NB CPU
+WORLD PEACE INDUSTRIAL CO LTD,Wan You,209.0,2024,PRC,NB CPU
+WORLD PEACE INDUSTRIAL CO LTD,"Xiamen Yilian Network Technology Co., Ltd",137.5141997928782,2024,PRC,NB CPU
+WORLD PEACE INDUSTRIAL CO.LTD,Iei,1.9850622406639005,2024,PRC,NB CPU
+WORLD PEACE INDUSTRIAL CO.LTD,Wistron Infocomm (zhongshan) C,23.40049751243781,2024,PRC,NB CPU
+WORLD PEACE INDUSTRIAL COMPANY LTD,Byd Company Limited,247.08982571130642,2024,PRC,NB CPU
+WORLD PEACE INDUSTRIAL COMPANY LTD,Eii Tech Co. Ltd,161.3422971309535,2024,PRC,NB CPU
+WORLD PEACE INDUSTRIAL COMPANY LTD,"Emdoor Digital Technology Co., Ltd.",166.56367264071687,2024,PRC,NB CPU
+WORLD PEACE INDUSTRIAL COMPANY LTD,Honor,160.76219484735716,2024,PRC,NB CPU
+WORLD PEACE INDUSTRIAL COMPANY LTD,上海六聯智慧科技有限公司,287.9995024875622,2024,PRC,NB CPU
+WORLD PEACE INDUSTRIAL COMPANY LTD,深圳市微步電子有限責任公司,65.63488358315067,2024,PRC,NB CPU
+WORLD PEACE INDUSTRIAL COMPANY LTD,聯達科技（廈門）有限公司,171.95302295204328,2024,PRC,NB CPU
+WPG Electronics (SA) Pte.Ltd,Pc Partner Limited,102.26415571284126,2024,PRC,NB CPU
+WPG Electronics (SA) Pte.Ltd,Jabil Luxembourg Manufacturing S.a R.l.,6.25,2024,Mexico,Emb POR
+"ASI COMPUTER TECHNOLOGIES, INC.",Evertz Microsystems Ltd,1129.6315789473683,2024,Canada,Server CPU
+Arrow Central Europe GmbH,Ovh Serveurs Inc,351.1801242236025,2024,Canada,Server CPU
+Exertis Hammer Limited,Ovh Serveurs Inc,466.7457627118644,2024,Canada,Server CPU
+Ingram Micro LP,Hypertechnologie Ciara Inc,1401.5044543429844,2024,Canada,Server CPU
+"ASI COMPUTER TECHNOLOGIES, INC.",1485608 Ontario Inc,44.65853658536585,2024,Canada,DT CPU
+Ingram Micro LP,Hypertechnologie Ciara Inc,71.16594124047879,2024,Canada,DT CPU
+Ingram Micro LP,Hypertechnologie Ciara Inc,131.0,2024,Canada,NB CPU
+"Ingram Micro, Inc (LAR)",Procomp Amazonia Industria,28.486405480625134,2024,Brazil,DT CPU
+Restar Electronics Corporation,東芝パソコンシステム（株）,44.99931082012405,2024,Japan,Server CPU
+OKAYA ELECTRONICS (RCO),"A.t.works, Inc.",12.0,2024,Japan,DT CPU
+OKAYA ELECTRONICS (RCO),Sb Frameworks,28.0,2024,Japan,DT CPU
+OKAYA ELECTRONICS (RCO),Thirdwave Corporation,6.371103128328249,2024,Japan,DT CPU
+OKAYA ELECTRONICS (RCO),"Yamada Holdings Co.,Ltd",1.1816891412349184,2024,Japan,DT CPU
+OKAYA ELECTRONICS (USD),Fujitsu Frontech Limited,1.565217391304348,2024,Japan,DT CPU
+Ryoyo Electro  K K.,Biccamera Inc,1.1111111111111112,2024,Japan,DT CPU
+Ryoyo Electro  K K.,Inverse Net,2.562619292321245,2024,Japan,DT CPU
+Ryoyo Electro  K K.,Logitec Ina Solutions Co. Ltd.,33.0,2024,Japan,DT CPU
+Ryoyo Electro  K K.,"Rakuten Group, Inc.",9.15929203539823,2024,Japan,DT CPU
+Ryoyo Electro  K K.,"Rf Co.,ltd.",26.433333333333334,2024,Japan,DT CPU
+Ryoyo Electro  K K.,アプライド株式会社,3.38543582199338,2024,Japan,DT CPU
+Ryoyo Electro  K K.,エプソンダイレクト株式会社,27.07647505697645,2024,Japan,DT CPU
+Ryoyo Electro  K K.,株式会社シスキー,41.9375,2024,Japan,DT CPU
+Ryoyo Electro  K K.,株式会社ヨドバシカメラ,23.18796992481203,2024,Japan,DT CPU
+Ryoyo Electro  K K.,興隆商事株式会社,37.34358047016275,2024,Japan,DT CPU
+"Tekwind Co., Ltd.","Business Service Co.,ltd.",2.769230769230769,2024,Japan,DT CPU
+"Tekwind Co., Ltd.","Daito Electron Co., Ltd.",3.227272727272727,2024,Japan,DT CPU
+"Tekwind Co., Ltd.",Edion Corporation,28.20754716981132,2024,Japan,DT CPU
+"Tekwind Co., Ltd.",Elsa Japan Inc.,1.9607843137254901,2024,Japan,DT CPU
+"Tekwind Co., Ltd.",Fanatic Computers Inc.,68.6,2024,Japan,DT CPU
+"Tekwind Co., Ltd.","Mousecomputer, Co.,ltd.",21.213221748513078,2024,Japan,DT CPU
+"Tekwind Co., Ltd.",Nojima Corporation,0.4782608695652174,2024,Japan,DT CPU
+"Tekwind Co., Ltd.",SYSTEM WORKS CORPORATION,1.0,2024,Japan,DT CPU
+"Tekwind Co., Ltd.",Sunwatechnos,71.0,2024,Japan,DT CPU
+"Tekwind Co., Ltd.",Td Synnex,11.6,2024,Japan,DT CPU
+"Tekwind Co., Ltd.",Tekwind Co Ltd,24.24137931034483,2024,Japan,DT CPU
+"Tekwind Co., Ltd.",Unitcom,0.17288333156723534,2024,Japan,DT CPU
+"Tekwind Co., Ltd.","Yamada Holdings Co.,Ltd",0.4249217935349322,2024,Japan,DT CPU
+"Tekwind Co., Ltd.",Zoa Corporation,2.234782608695652,2024,Japan,DT CPU
+"Tekwind Co., Ltd.",アプライド株式会社,5.454545454545454,2024,Japan,DT CPU
+"Tekwind Co., Ltd.",ダイワボウ情報システム株式会社,4.8307692307692305,2024,Japan,DT CPU
+"Tekwind Co., Ltd.",ヤトロ電子　株式会社,41.857142857142854,2024,Japan,DT CPU
+"Tekwind Co., Ltd.",上新電機株式会社,0.049019607843137254,2024,Japan,DT CPU
+"Tekwind Co., Ltd.",株式会社ワンズ,1.4141414141414141,2024,Japan,DT CPU
+"Tekwind Co., Ltd.",福西電機株式会社,58.0,2024,Japan,DT CPU
+OKAYA ELECTRONICS (USD),Denso Corporation,28.828207471905067,2024,Japan,Emb POR
+OKAYA ELECTRONICS (USD),Pfu,1.7913322632423756,2024,Japan,Emb POR
+OKAYA ELECTRONICS (USD),"Nec Management Partner,ltd.",5.0,2024,Japan,NB CPU
+OKAYA ELECTRONICS (USD),株式会社ダックス,6.884848484848485,2024,Japan,NB CPU
+Restar Electronics Corporation,"I-pro Co.,ltd.",93.43543543543544,2024,Japan,NB CPU
+Ryoyo Electro  K K.,エプソンダイレクト株式会社,79.04354508196721,2024,Japan,NB CPU
+ALSO Polska Sp. z o.o.,Hetzner Online Gmbh,140.0,2024,EU,Server CPU
+Arrow Central Europe GmbH,Megware Computer Vertrieb Und,1448.3684210526317,2024,EU,Server CPU
+Arrow Central Europe GmbH,Ovh,288.08934169278996,2024,EU,Server CPU
+Arrow Central Europe GmbH,Wortmann Ag,99.82285208148804,2024,EU,Server CPU
+Arrow Rapac Ltd,Camtek Limited,492.34346264367815,2024,EU,Server CPU
+Arrow Rapac Ltd,Flextronics Israel Ltd,505.8888888888889,2024,EU,Server CPU
+Arrow Rapac Ltd,Landa Corporation Ltd,65.10344827586206,2024,EU,Server CPU
+Arrow Rapac Ltd,Orbotech Limited,174.73314732142856,2024,EU,Server CPU
+CMS Compucenter Ltd,Hiper Global,112.1842105263158,2024,EU,Server CPU
+EBV Elektronik GmbH & Co. KG,Ecrin Systems Sa,565.0,2024,EU,Server CPU
+Exertis Hammer Limited,Axiom Manufacturing Services L,631.0,2024,EU,Server CPU
+Exertis Hammer Limited,Exacta Technologies Limited,131.70621468926555,2024,EU,Server CPU
+Exertis Hammer Limited,Kaon Limited,370.3636363636364,2024,EU,Server CPU
+Exertis Hammer Limited,Ovh,275.2612872238233,2024,EU,Server CPU
+Exertis Hammer Limited,Team.blue Denmark,656.0,2024,EU,Server CPU
+Ingram Micro Pan Europe GmbH,Primeline Solutions Gmbh,17.6,2024,EU,Server CPU
+Ingram Micro Pan Europe GmbH,Rnt Rausch Gmbh,231.32022471910113,2024,EU,Server CPU
+Ingram Micro Pan Europe GmbH,Thunder-it Gmbh,30.186046511627907,2024,EU,Server CPU
+TD SYNNEX Supply Chain Services,Azken Muga Sl,2915.7825059101656,2024,EU,Server CPU
+TD SYNNEX Supply Chain Services,Megware Computer Vertrieb Und,3590.181818181818,2024,EU,Server CPU
+TD SYNNEX Supply Chain Services,Nt Nuove Tecnologie Srl,2222.0,2024,EU,Server CPU
+TD SYNNEX Supply Chain Services,Sistemas Informaticos Europeos,3827.0,2024,EU,Server CPU
+TD SYNNEX Supply Chain Services,Wortmann Ag,98.61068702290076,2024,EU,Server CPU
+AB SA,Ntt System Sa,40.42237249929558,2024,EU,DT CPU
+ALSO A/S,Komplett Services As,11.090695856137607,2024,EU,DT CPU
+ALSO ,Groupe Cybertek,37.234042553191486,2024,EU,DT CPU
+ALSO Polska Sp. z o.o.,Hetzner Online Gmbh,86.19988031119091,2024,EU,DT CPU
+ALSO Polska Sp. z o.o.,Komputronik,25.0440414507772,2024,EU,DT CPU
+ALSO Polska Sp. z o.o.,Mikka Gmbh,54.97251374312844,2024,EU,DT CPU
+ALSO Polska Sp. z o.o.,Ntt System Sa,50.732371421922274,2024,EU,DT CPU
+ALSO Polska Sp. z o.o.,Tarox Aktiengesellschaft,14.106666666666667,2024,EU,DT CPU
+ALSO Polska Sp. z o.o.,X-kom Sp�lłka Z Ograniczoną,0.7690023752969121,2024,EU,DT CPU
+ASBISC ENTERPRISES PLC,2 By 2,30.0,2024,EU,DT CPU
+ASBISC ENTERPRISES PLC,Komputronik Biznes Sp Z O O W Restrukturyzacji,18.390601422720415,2024,EU,DT CPU
+ASBISC ENTERPRISES PLC,Komputronik Sa,3.9130434782608696,2024,EU,DT CPU
+ASBISC ENTERPRISES PLC,Ntt System Sa,47.16051111500087,2024,EU,DT CPU
+ASBISC ENTERPRISES PLC,Nxpower (uk) Limited,67.93147590361446,2024,EU,DT CPU
+ASBISC ENTERPRISES PLC,Terg S.a.,5.162635529608007,2024,EU,DT CPU
+ASBISC ENTERPRISES PLC,X-kom Sp�lłka Z Ograniczoną,2.7742520398912056,2024,EU,DT CPU
+Arrow Central Europe GmbH,"Inforlandia, S.a.",6.834061135371179,2024,EU,DT CPU
+Arrow Central Europe GmbH,Nxpower (uk) Limited,164.7058823529412,2024,EU,DT CPU
+Arrow Central Europe GmbH,Scan Computers International Limited,69.6,2024,EU,DT CPU
+Arrow Central Europe GmbH,Tarox Marketplace Gmbh,70.45620437956204,2024,EU,DT CPU
+Arrow Central Europe GmbH,Wortmann Ag,44.188155008530345,2024,EU,DT CPU
+EASTRONICS,Visionix Limited,10.0,2024,EU,DT CPU
+EBV Elektronik GmbH & Co. KG,Datapath Limited,38.797814207650276,2024,EU,DT CPU
+EBV Elektronik GmbH & Co. KG,Diebold Nixdorf,0.5883852465546084,2024,EU,DT CPU
+Elko Grupa AS,Ntt System Sa,26.074912891986063,2024,EU,DT CPU
+Exertis Hammer Limited,Scan Computers International Limited,5.289517470881863,2024,EU,DT CPU
+Ingram Micro Pan Europe GmbH,Aseuropa Sl,62.0,2024,EU,DT CPU
+Ingram Micro Pan Europe GmbH,Bluechip Computer Aktiengesell,14.244482173174873,2024,EU,DT CPU
+Ingram Micro Pan Europe GmbH,Depau Sistemas Sl,34.404309252218,2024,EU,DT CPU
+Ingram Micro Pan Europe GmbH,Development Systems And Management Sa,33.095238095238095,2024,EU,DT CPU
+Ingram Micro Pan Europe GmbH,Groupe Ldlc,3.185035389282103,2024,EU,DT CPU
+Ingram Micro Pan Europe GmbH,Infortisa Sl,52.54838709677419,2024,EU,DT CPU
+Ingram Micro Pan Europe GmbH,Infowork Technology,35.0,2024,EU,DT CPU
+Ingram Micro Pan Europe GmbH,Nxpower (uk) Limited,72.44126659856997,2024,EU,DT CPU
+Ingram Micro Pan Europe GmbH,Pc Specialist Limited,29.427148906947465,2024,EU,DT CPU
+Ingram Micro Pan Europe GmbH,Scan Computers International Limited,2.163355408388521,2024,EU,DT CPU
+Ingram Micro Pan Europe GmbH,Stone Technologies Limited,64.575858923685,2024,EU,DT CPU
+MCR,Aseuropa,69.34907081868408,2024,EU,DT CPU
+MCR,Binary Systems Sl,36.23339658444023,2024,EU,DT CPU
+MCR,Depau Sistemas Sl,37.05738029283736,2024,EU,DT CPU
+MCR,Development Systems And Management Sa,39.51327433628319,2024,EU,DT CPU
+MCR,"Inforlandia, S.a.",76.0,2024,EU,DT CPU
+MCR,Infortisa Sl,36.7820945945946,2024,EU,DT CPU
+MCR,Infowork Technology,38.08974358974359,2024,EU,DT CPU
+MCR,Pc Componentes Y Multimedia S.l.,16.40135069946937,2024,EU,DT CPU
+Rutronik,Bluechip Computer Aktiengesell,64.44177449168207,2024,EU,DT CPU
+Rutronik,Depau Sistemas Sl,40.25316455696203,2024,EU,DT CPU
+Rutronik,"Inforlandia, S.a.",45.9264816204051,2024,EU,DT CPU
+Rutronik,Infortisa Sl,63.357142857142854,2024,EU,DT CPU
+Rutronik,Infowork Technology,66.91176470588235,2024,EU,DT CPU
+Rutronik,Sas Groupe Cybertek,61.15384615384615,2024,EU,DT CPU
+TD SYNNEX Supply Chain Services,3w Computer,66.85,2024,EU,DT CPU
+TD SYNNEX Supply Chain Services,Action Sp?ka Akcyjna,18.298887122416534,2024,EU,DT CPU
+TD SYNNEX Supply Chain Services,Depau Sistemas Sl,38.435445068163595,2024,EU,DT CPU
+TD SYNNEX Supply Chain Services,Groupe Cybertek,17.131949095780307,2024,EU,DT CPU
+TD SYNNEX Supply Chain Services,Ntt System Sa,40.37064220183486,2024,EU,DT CPU
+TD SYNNEX Supply Chain Services,Priminfo,74.7182320441989,2024,EU,DT CPU
+TD SYNNEX Supply Chain Services,Tarox Marketplace Gmbh,32.715053763440864,2024,EU,DT CPU
+TD SYNNEX Supply Chain Services,Tekno Service Sl,53.0,2024,EU,DT CPU
+WPG Electronics (SA) Pte.Ltd,Diebold Nixdorf Technology Gmb,1.1274542429284526,2024,EU,DT CPU
+Arrow Central Europe GmbH,Aptiv Services (ireland) Limited As,28.64857923497268,2024,EU,Emb POR
+Arrow Central Europe GmbH,"Aptivport Services, S.a.",44.82350282485876,2024,EU,Emb POR
+EASTRONICS,C-lab Ltd,8.053691275167786,2024,EU,Emb POR
+EASTRONICS,Silicom Ltd.,16.352313167259787,2024,EU,Emb POR
+Arrow Central Europe GmbH,B&r Industrial Automation Gmbh,16.95598693061695,2024,EU,NB CPU
+EASTRONICS,C-lab Ltd,8.4,2024,EU,NB CPU
+EASTRONICS,Silicom Ltd.,47.26651480637813,2024,EU,NB CPU
+EBV Elektronik GmbH & Co. KG,Avnet Embedded Gmbh,1.5895196506550218,2024,EU,NB CPU
+WPG Electronics (SA) Pte.Ltd,Diebold Nixdorf Technology Gmb,113.57142857142857,2024,EU,NB CPU
